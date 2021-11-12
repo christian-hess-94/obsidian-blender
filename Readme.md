@@ -11,3 +11,4 @@ A maneira correta de visualizar este repositório é através do app [Obsidian](
 ---
 ## References
 1. https://obisidian.md
+2. https://blender.org
