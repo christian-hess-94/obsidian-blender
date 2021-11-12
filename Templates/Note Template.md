@@ -1,6 +1,8 @@
 # {{title}}
 Created: {{date}} - {{time}}
+
 tags: 
+
 ---
 
 CONTENT
