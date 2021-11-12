@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Readme.md",
+            "file": "Literature/Blender - MOC.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Literature/Blender - MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "c7ea4aab04809496",
   "lastOpenFiles": [
+    "Literature/Blender - MOC.md",
     "Readme.md",
     "Templates/Note Template.md",
     "Fleeting/Treino.md",
