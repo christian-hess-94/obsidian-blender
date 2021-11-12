@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting/Treino.md",
+            "file": "Templates/oi.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/Treino.md",
+                "file": "Templates/oi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,12 @@
   },
   "active": "73084e489dead497",
   "lastOpenFiles": [
+    "Templates/oi.md",
     "Fleeting/Treino.md",
     "Fleeting/Texture Painting _ Materials.md",
     "Fleeting/Modifiers.md",
     "Fleeting/Exportando para Unity.md",
     "Fleeting/Atalhos.md",
-    "Fleeting/Addons.md",
-    "Untitled.md"
+    "Fleeting/Addons.md"
   ]
 }
