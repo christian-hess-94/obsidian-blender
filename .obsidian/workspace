@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/Blender - MOC.md",
+            "file": "Templates/Note Template.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Blender - MOC.md",
+                "file": "Templates/Note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "c7ea4aab04809496",
   "lastOpenFiles": [
+    "Templates/Note Template.md",
     "Literature/Blender - MOC.md",
     "Readme.md",
-    "Templates/Note Template.md",
     "Fleeting/Treino.md",
     "Fleeting/Texture Painting _ Materials.md",
     "Fleeting/Modifiers.md",

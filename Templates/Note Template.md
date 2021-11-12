@@ -1,5 +1,5 @@
 # {{title}}
-Created: {{date}} - {{time}}
+Criado: {{date}} - {{time}}
 
 tags: 
 
@@ -8,5 +8,5 @@ tags:
 CONTENT
 
 ---
-## References
+## Referências
 1.
