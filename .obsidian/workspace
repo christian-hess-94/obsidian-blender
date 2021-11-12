@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/oi.md",
+            "file": "Templates/Note Template.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/oi.md",
+                "file": "Templates/Note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
   },
   "active": "73084e489dead497",
   "lastOpenFiles": [
-    "Templates/oi.md",
+    "Templates/Note Template.md",
     "Fleeting/Treino.md",
     "Fleeting/Texture Painting _ Materials.md",
     "Fleeting/Modifiers.md",
