@@ -6,12 +6,14 @@
       {
         "id": "c7ea4aab04809496",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/Sculpting.md",
+            "file": "Permanent/Modifiers - MOC.md",
             "mode": "source"
-          }
+          },
+          "pinned": true
         }
       },
       {
@@ -20,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/Deform Modifiers/Deform Modifiers - MOC.md",
+            "file": "Permanent/Como associar hooks.md",
             "mode": "source"
           }
         }
@@ -79,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Deform Modifiers/Deform Modifiers - MOC.md",
+                "file": "Permanent/Como associar hooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +101,15 @@
   },
   "active": "13cf6f576a4daada",
   "lastOpenFiles": [
-    "Literature/Deform Modifiers/Deform Modifiers - MOC.md",
-    "Literature/Modifiers - MOC.md",
+    "Permanent/Como associar hooks.md",
+    "Permanent/Modifiers - MOC.md",
+    "Literature/Deform Modifiers/Hook Modifier.md",
     "Literature/Deform Modifiers/Displace Modifier.md",
-    "Literature/Deform Modifiers/Curve Modifier.md",
-    "Literature/Deform Modifiers/Cast Modifier.md",
     "Literature/Deform Modifiers/Armature Modifier.md",
-    "Literature/Modelagem.md",
+    "Literature/Deform Modifiers/Cast Modifier.md",
+    "Literature/Deform Modifiers/Curve Modifier.md",
     "Literature/Sculpting.md",
-    "Literature/Extruding.md",
-    "Permanent/Utilizando Curve Modifier.md"
+    "Literature/Deform Modifiers/Deform Modifiers - MOC.md",
+    "Literature/Modelagem.md"
   ]
 }

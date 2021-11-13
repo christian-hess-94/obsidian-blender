@@ -1,7 +1,7 @@
 # Armature
 Criado: 13/11/2021 - 18:06
 
-tags: #modifiers #animation
+tags: #deform_modifiers  #animation
 
 ---
 
@@ -9,4 +9,4 @@ Permite adicionar um esqueleto (Armature) ao objeto. Normalmente esse processo n
 
 ---
 ## Referências
-1. [[Deform Modifiers - MOC]]
+1.
