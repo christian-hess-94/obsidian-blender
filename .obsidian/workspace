@@ -20,11 +20,8 @@
         "id": "13cf6f576a4daada",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Permanent/Como associar hooks.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -81,7 +78,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent/Como associar hooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +97,15 @@
   },
   "active": "13cf6f576a4daada",
   "lastOpenFiles": [
-    "Permanent/Como associar hooks.md",
     "Permanent/Modifiers - MOC.md",
+    "Literature/Deform Modifiers/ShrinkWrap Modifier.md",
+    "Literature/Deform Modifiers/Mesh Deform Modifier.md",
+    "Literature/Deform Modifiers/Lattice Modifier.md",
+    "Literature/Deform Modifiers/Laplacian Deform Modifier.md",
     "Literature/Deform Modifiers/Hook Modifier.md",
+    "Permanent/Como associar hooks.md",
     "Literature/Deform Modifiers/Displace Modifier.md",
     "Literature/Deform Modifiers/Armature Modifier.md",
-    "Literature/Deform Modifiers/Cast Modifier.md",
-    "Literature/Deform Modifiers/Curve Modifier.md",
-    "Literature/Sculpting.md",
-    "Literature/Deform Modifiers/Deform Modifiers - MOC.md",
-    "Literature/Modelagem.md"
+    "Literature/Deform Modifiers/Cast Modifier.md"
   ]
 }
