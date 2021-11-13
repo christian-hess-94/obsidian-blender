@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Permanent/Blender - MOC.md",
+            "file": "Fleeting/Extrusão.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent/Blender - MOC.md",
+                "file": "Fleeting/Extrusão.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +88,15 @@
   },
   "active": "c7ea4aab04809496",
   "lastOpenFiles": [
+    "Fleeting/Extrusão.md",
+    "Fleeting/Treino.md",
+    "Literature/Extrusão (extruding).md",
+    "Literature/Escultura (Sculpting).md",
+    "Permanent/Modelagem.md",
     "Permanent/Blender - MOC.md",
     "Templates/Note Template.md",
     "Readme.md",
-    "Fleeting/Treino.md",
     "Fleeting/Texture Painting _ Materials.md",
-    "Fleeting/Modifiers.md",
-    "Fleeting/Exportando para Unity.md",
-    "Fleeting/Atalhos.md",
-    "Fleeting/Addons.md"
+    "Fleeting/Modifiers.md"
   ]
 }
