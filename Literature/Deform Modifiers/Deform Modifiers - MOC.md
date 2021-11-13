@@ -1,7 +1,7 @@
-# Deformadores (Deform)
+# Deform Modifiers
 Criado: 13/11/2021 - 18:03
 
-tags: #modifier
+tags: #modifiers
 
 ---
 
@@ -9,17 +9,10 @@ Modificadores deformadores são responsáveis por modificar a estrutura da geome
 
 Os modificadores são:
 
-- [[Armature]]
-- [[Cast]]
-- [[Curve]]: Permite associar a mesh a uma Curve. Pode-se criar um combo de modifier para que a mesh se duplique em volta da Curve
-  - Crie a Curve a ser usada
-  - Crie e modifique o objeto a ser duplicado
-  - Adicione o Array Modifier para começar a criar cópias
-  - No fit type, selecione Fit Curve e escolha a Curve criada
-    - Isso faz com que o objeto seja duplicado até o resultado ser do tamanho da Curve
-  - Adicione o Curve Modifier **após** o Array Modifier e selecione a Curve
-    - O objeto e suas cópias seguem o contorno da Curva
-- [[Displace]]: Permite aplicar uma Imagem ou Textura Procedural para mover os vértices da mesh. Muito útil para criar ondulações e dar um efeito mais natural e imperfeito a uma mesh.
+- [[Armature Modifier]]
+- [[Cast Modifier]]
+- [[Curve Modifier]]
+- [[Displace Modifier]]: Permite aplicar uma Imagem ou Textura Procedural para mover os vértices da mesh. Muito útil para criar ondulações e dar um efeito mais natural e imperfeito a uma mesh.
 - [[Hook]]: Permite que um objeto externo possa modificar a geometria do objeto que possui o modifier.
   - Normalmente a geometria só pode ser modificada manualmente no Edit Mode
   - Ao colocar um Hook de uma parte da geometria a um objeto externo, podemos mover e alterar o objeto externo para alterar a geometria
@@ -35,4 +28,4 @@ Os modificadores são:
 
 ---
 ## Referências
-1. [[Literature/Modifiers]]
+1. [[Modifiers - MOC]]

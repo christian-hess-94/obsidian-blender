@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/Deform Modifiers/Curve.md",
+            "file": "Literature/Sculpting.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/Deform Modifiers/Cast.md",
+            "file": "Literature/Deform Modifiers/Deform Modifiers - MOC.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Deform Modifiers/Curve.md",
+                "file": "Literature/Deform Modifiers/Deform Modifiers - MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c7ea4aab04809496",
+  "active": "13cf6f576a4daada",
   "lastOpenFiles": [
-    "Literature/Deform Modifiers/Curve.md",
-    "Literature/Deform Modifiers/Modificadores Deformadores (Deform) - MOC.md",
-    "Literature/Deform Modifiers/Cast.md",
-    "Fleeting/Modifiers.md",
-    "Literature/Deform Modifiers/Armature.md",
-    "Literature/Modifiers.md",
-    "Permanent/Blender - MOC.md",
+    "Literature/Deform Modifiers/Deform Modifiers - MOC.md",
+    "Literature/Modifiers - MOC.md",
+    "Literature/Deform Modifiers/Displace Modifier.md",
+    "Literature/Deform Modifiers/Curve Modifier.md",
+    "Literature/Deform Modifiers/Cast Modifier.md",
+    "Literature/Deform Modifiers/Armature Modifier.md",
     "Literature/Modelagem.md",
-    "Literature/Extrusão (Extruding).md",
-    "Literature/Extrusão - Conceito.md"
+    "Literature/Sculpting.md",
+    "Literature/Extruding.md",
+    "Permanent/Utilizando Curve Modifier.md"
   ]
 }
