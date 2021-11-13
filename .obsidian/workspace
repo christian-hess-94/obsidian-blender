@@ -7,11 +7,8 @@
         "id": "c7ea4aab04809496",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Fleeting/Modifiers.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       },
       {
@@ -20,7 +17,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/Modifiers.md",
+            "file": "Literature/Deform Modifiers/Armature.md",
             "mode": "source"
           }
         }
@@ -79,7 +76,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/Modifiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +95,15 @@
   },
   "active": "c7ea4aab04809496",
   "lastOpenFiles": [
-    "Fleeting/Modifiers.md",
-    "Literature/Modifiers.md",
-    "Literature/Deform Modifiers/Deformadores (Deform) - MOC.md",
+    "Literature/Deform Modifiers/Cast.md",
     "Literature/Deform Modifiers/Armature.md",
+    "Literature/Deform Modifiers/Deformadores (Deform) - MOC.md",
+    "Literature/Modifiers.md",
+    "Fleeting/Modifiers.md",
     "Permanent/Blender - MOC.md",
     "Literature/Modelagem.md",
     "Literature/Extrusão (Extruding).md",
     "Literature/Extrusão - Conceito.md",
-    "Literature/Escultura (Sculpting).md",
-    "Fleeting/Treino.md"
+    "Literature/Escultura (Sculpting).md"
   ]
 }
