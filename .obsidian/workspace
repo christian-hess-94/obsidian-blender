@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting/Extrusão.md",
+            "file": "Fleeting/Modifiers.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "13cf6f576a4daada",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Permanent/Modifiers.md",
             "mode": "source"
           }
         }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/Extrusão.md",
+                "file": "Permanent/Modifiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c7ea4aab04809496",
+  "active": "13cf6f576a4daada",
   "lastOpenFiles": [
-    "Fleeting/Extrusão.md",
-    "Fleeting/Treino.md",
-    "Literature/Extrusão (extruding).md",
-    "Literature/Escultura (Sculpting).md",
+    "Permanent/Modifiers.md",
+    "Permanent/Extrusão (Extruding).md",
+    "Literature/Extrusão - Conceito.md",
     "Permanent/Modelagem.md",
+    "Literature/Escultura (Sculpting).md",
+    "Fleeting/Modifiers.md",
+    "Fleeting/Treino.md",
     "Permanent/Blender - MOC.md",
     "Templates/Note Template.md",
-    "Readme.md",
-    "Fleeting/Texture Painting _ Materials.md",
-    "Fleeting/Modifiers.md"
+    "Readme.md"
   ]
 }

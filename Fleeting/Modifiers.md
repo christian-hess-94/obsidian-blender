@@ -55,7 +55,7 @@
   - No fit type, selecione Fit Curve e escolha a Curve criada
     - Isso faz com que o objeto seja duplicado até o resultado ser do tamanho da Curve
   - Adicione o Curve Modifier **após** o Array Modifier e selecione a Curve
-    - ` `O objeto e suas cópias seguem o contorno da Curva
+    - O objeto e suas cópias seguem o contorno da Curva
 - Displace: Permite aplicar uma Imagem ou Textura Procedural para mover os vértices da mesh. Muito útil para criar ondulações e dar um efeito mais natural e imperfeito a uma mesh.
 - Hook: Permite que um objeto externo possa modificar a geometria do objeto que possui o modifier.
   - Normalmente a geometria só pode ser modificada manualmente no Edit Mode
