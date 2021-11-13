@@ -10,7 +10,7 @@ Modificadores deformadores são responsáveis por modificar a estrutura da geome
 Os modificadores são:
 
 - [[Armature]]
-- [[Cast]]: Modifier que se especializa em transformar a mesh para que tenha um formato de esfera, cilindro ou cuboide.
+- [[Cast]]
 - [[Curve]]: Permite associar a mesh a uma Curve. Pode-se criar um combo de modifier para que a mesh se duplique em volta da Curve
   - Crie a Curve a ser usada
   - Crie e modifique o objeto a ser duplicado

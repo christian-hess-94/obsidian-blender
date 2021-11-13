@@ -5,7 +5,7 @@ tags: #modifiers
 
 ---
 
-CONTENT
+Modifier que se especializa em transformar a mesh para que tenha um formato de esfera, cilindro ou cuboide.
 
 ---
 ## Referências

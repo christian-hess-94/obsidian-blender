@@ -9,4 +9,4 @@ Permite adicionar um esqueleto (Armature) ao objeto. Normalmente esse processo n
 
 ---
 ## Referências
-1. [[Deformadores (Deform) - MOC]]
+1. [[Modificadores Deformadores (Deform) - MOC]]

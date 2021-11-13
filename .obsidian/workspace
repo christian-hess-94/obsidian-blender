@@ -7,8 +7,11 @@
         "id": "c7ea4aab04809496",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Literature/Deform Modifiers/Curve.md",
+            "mode": "source"
+          }
         }
       },
       {
@@ -17,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/Deform Modifiers/Armature.md",
+            "file": "Literature/Deform Modifiers/Cast.md",
             "mode": "source"
           }
         }
@@ -76,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Literature/Deform Modifiers/Curve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +99,15 @@
   },
   "active": "c7ea4aab04809496",
   "lastOpenFiles": [
+    "Literature/Deform Modifiers/Curve.md",
+    "Literature/Deform Modifiers/Modificadores Deformadores (Deform) - MOC.md",
     "Literature/Deform Modifiers/Cast.md",
-    "Literature/Deform Modifiers/Armature.md",
-    "Literature/Deform Modifiers/Deformadores (Deform) - MOC.md",
-    "Literature/Modifiers.md",
     "Fleeting/Modifiers.md",
+    "Literature/Deform Modifiers/Armature.md",
+    "Literature/Modifiers.md",
     "Permanent/Blender - MOC.md",
     "Literature/Modelagem.md",
     "Literature/Extrusão (Extruding).md",
-    "Literature/Extrusão - Conceito.md",
-    "Literature/Escultura (Sculpting).md"
+    "Literature/Extrusão - Conceito.md"
   ]
 }

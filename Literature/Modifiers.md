@@ -10,7 +10,7 @@ A forma como são adicionados ao objeto influenciam a forma como são aplicados 
 Existem três tipos de Modifiers:
 - [[Modificadores (Modify)]]
 - [[Geradores (Generate)]]
-- [[Deformadores (Deform) - MOC]]
+- [[Modificadores Deformadores (Deform) - MOC]]
 
 ---
 ## Referências
