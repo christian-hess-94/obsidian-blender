@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Permanent/Modifiers.md",
+            "file": "Literature/Modifiers.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent/Modifiers.md",
+                "file": "Fleeting/Modifiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "13cf6f576a4daada",
+  "active": "c7ea4aab04809496",
   "lastOpenFiles": [
-    "Permanent/Modifiers.md",
-    "Permanent/Extrusão (Extruding).md",
-    "Literature/Extrusão - Conceito.md",
-    "Permanent/Modelagem.md",
-    "Literature/Escultura (Sculpting).md",
     "Fleeting/Modifiers.md",
-    "Fleeting/Treino.md",
+    "Literature/Modifiers.md",
+    "Literature/Deform Modifiers/Deformadores (Deform) - MOC.md",
+    "Literature/Deform Modifiers/Armature.md",
     "Permanent/Blender - MOC.md",
-    "Templates/Note Template.md",
-    "Readme.md"
+    "Literature/Modelagem.md",
+    "Literature/Extrusão (Extruding).md",
+    "Literature/Extrusão - Conceito.md",
+    "Literature/Escultura (Sculpting).md",
+    "Fleeting/Treino.md"
   ]
 }
