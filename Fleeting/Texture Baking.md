@@ -19,8 +19,8 @@ Baking de um normal map:
 - Selecione o objeto LOW POLY e aplique um material a ele
 - Modifique a opção Color para ser uma Image Texture
 - Selecione a imagem recém-criada e aplique-a como textura do objeto
-- Aproveite para se certificar que o UV Map da mesh esta inteiro dentro da área designada no UV Editor
-  - Caso não tenha sido feito o UV Map, utilize o SMART UV UNWRAP
+- Aproveite para se certificar que o[[ UV Map]] da mesh esta inteiro dentro da área designada no UV Editor
+  - Caso não tenha sido feito o [[UV Map]], utilize o SMART UV UNWRAP
 - Após feito isso, abra a aba Render Properties.
 - Procure o sub-conjunto "bake"
 - Modifique Bake type para "normal"

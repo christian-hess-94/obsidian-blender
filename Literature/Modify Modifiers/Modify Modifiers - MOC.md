@@ -16,9 +16,9 @@ Essas alterações são chamadas de [[Modelagem não destrutiva]].
 - [[Normal Edit Modifier]]: 
 - [[Weighted Normal Modifier]]: 
 - [[UV Project Modifier]]: 
-- [[UV Wrap Modifier]]: Permite usar objetos externos para alterar a projeção da textura no mapa UV do objeto com o modificador
-- [[Vertex Weight Edit Modifier]]: Permite realizar alterações ao weight painting feito em uma mesh. Permite alterar coisas como Default Weight e modificar o weight painting ativo de maneira procedural
-- [[Vertex Weight Mix Modifier]]: Permite realizar um mix dos weight paintings de diferentes Vertex Groups. Oferece a opção de realizar diversas operações como Add, Subtract, Difference, dentre outros.
+- [[UV Wrap Modifier]]: 
+- [[Vertex Weight Edit Modifier]]: 
+- [[Vertex Weight Mix Modifier]]: 
 - [[Vertex Weight Proximity Modifier]]: Permite a criação de Vertex Groups e Weight Paintings dinâmicos. Associa um objeto ao modificador que cria um vertex group a partir da localização do objeto. Outros parâmetros podem ser mexidos para ajustar o tamanho e intensidade do Weight Paint que é originado.
   - Pode fazer um efeito de fade com ajude de um Wireframe Modifier (explicado abaixo)
 
