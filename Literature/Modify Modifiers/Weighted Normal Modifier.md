@@ -9,4 +9,4 @@ Faz uma interpolação dos vetores normais do vértices para que apontem na dire
 
 ---
 ## Referências
-1. [[Normal Edit Modifier]]
+1. 

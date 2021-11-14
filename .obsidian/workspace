@@ -20,8 +20,11 @@
         "id": "21537be26665d11f",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Literature/Modify Modifiers/Weighted Normal Modifier.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -78,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Literature/Modify Modifiers/Weighted Normal Modifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,13 +101,13 @@
   },
   "active": "21537be26665d11f",
   "lastOpenFiles": [
+    "Literature/Modify Modifiers/Weighted Normal Modifier.md",
     "Literature/Modify Modifiers/Modify Modifiers - MOC.md",
     "Literature/Modify Modifiers/Vertex Weight Proximity Modifier.md",
     "Vertex Weight Mix Modifier.md",
     "Literature/Modify Modifiers/Vertex Weight Edit Modifier.md",
     "Literature/Modify Modifiers/UV Wrap Modifier.md",
     "Literature/Modify Modifiers/UV Project Modifier.md",
-    "Literature/Modify Modifiers/Weighted Normal Modifier.md",
     "Literature/Modify Modifiers/Normal Edit Modifier.md",
     "Literature/Modify Modifiers/Mesh Sequence Modifier.md",
     "Literature/Modify Modifiers/Mesh Cache Modifier.md"
