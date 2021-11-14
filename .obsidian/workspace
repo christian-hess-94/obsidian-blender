@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/Deform Modifiers/Deform Modifiers - MOC.md",
+            "file": "Literature/Modify Modifiers/UV Project Modifier.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Modify Modifiers/Modify Modifiers - MOC.md",
+                "file": "Literature/Modify Modifiers/UV Project Modifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c7ea4aab04809496",
+  "active": "21537be26665d11f",
   "lastOpenFiles": [
+    "Literature/Modify Modifiers/UV Project Modifier.md",
     "Literature/Modify Modifiers/Modify Modifiers - MOC.md",
+    "Literature/Modify Modifiers/Weighted Normal Modifier.md",
+    "Literature/Modify Modifiers/Normal Edit Modifier.md",
+    "Literature/Modify Modifiers/Mesh Sequence Modifier.md",
+    "Literature/Modify Modifiers/Mesh Cache Modifier.md",
+    "Literature/Modify Modifiers/Data Transfer Modifier.md",
     "Literature/Deform Modifiers/Deform Modifiers - MOC.md",
     "Literature/Modifiers - MOC.md",
-    "Literature/Generate Modifiers/Generate Modifiers - MOC.md",
-    "Fleeting/Modifiers.md",
-    "Permanent/Utilizando Curve Modifier.md",
-    "Literature/Deform Modifiers/Armature Modifier.md",
-    "Permanent/Como associar hooks.md",
-    "Permanent/Blender - MOC.md",
-    "Literature/Extruding.md"
+    "Literature/Generate Modifiers/Generate Modifiers - MOC.md"
   ]
 }

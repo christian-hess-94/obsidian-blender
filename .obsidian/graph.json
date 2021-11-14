@@ -6,17 +6,25 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "#wip",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.69145299145299,
   "lineSizeMultiplier": 5,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.444444444444444,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.25883865621816354,
+  "scale": 0.25883865621816377,
   "close": false
 }

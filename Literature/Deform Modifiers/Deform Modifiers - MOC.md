@@ -6,6 +6,8 @@ tags: #deform_modifiers
 ---
 
 Modificadores deformadores são responsáveis por modificar a estrutura da geometria já existente. Não adicionam e nem removem complexidade da geometria, apenas modificam a posição de seus diversos vértices, arestas e faces.
+
+### Lista de modifiers
 - [[Armature Modifier]]
 - [[Cast Modifier]]
 - [[Curve Modifier]]
