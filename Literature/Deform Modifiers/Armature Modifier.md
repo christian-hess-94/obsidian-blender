@@ -1,7 +1,7 @@
 # Armature
 Criado: 13/11/2021 - 18:06
 
-tags: #deform_modifiers  #animation
+tags: #deform_modifiers
 
 ---
 

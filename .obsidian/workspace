@@ -6,11 +6,12 @@
       {
         "id": "c7ea4aab04809496",
         "type": "leaf",
+        "dimension": 38.141025641025635,
         "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Permanent/Modifiers - MOC.md",
+            "file": "Literature/Modifiers - MOC.md",
             "mode": "source"
           },
           "pinned": true
@@ -19,9 +20,13 @@
       {
         "id": "13cf6f576a4daada",
         "type": "leaf",
+        "dimension": 61.858974358974365,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Literature/Deform Modifiers/Armature Modifier.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -78,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Literature/Deform Modifiers/Armature Modifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +103,15 @@
   },
   "active": "13cf6f576a4daada",
   "lastOpenFiles": [
-    "Permanent/Modifiers - MOC.md",
+    "Literature/Deform Modifiers/Armature Modifier.md",
+    "Permanent/Como associar hooks.md",
+    "Literature/Modifiers - MOC.md",
+    "Permanent/Blender - MOC.md",
+    "Literature/Extruding.md",
     "Literature/Deform Modifiers/ShrinkWrap Modifier.md",
     "Literature/Deform Modifiers/Mesh Deform Modifier.md",
     "Literature/Deform Modifiers/Lattice Modifier.md",
     "Literature/Deform Modifiers/Laplacian Deform Modifier.md",
-    "Literature/Deform Modifiers/Hook Modifier.md",
-    "Permanent/Como associar hooks.md",
-    "Literature/Deform Modifiers/Displace Modifier.md",
-    "Literature/Deform Modifiers/Armature Modifier.md",
-    "Literature/Deform Modifiers/Cast Modifier.md"
+    "Literature/Deform Modifiers/Hook Modifier.md"
   ]
 }
