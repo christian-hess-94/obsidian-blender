@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/Deform Modifiers/Armature Modifier.md",
+            "file": "Fleeting/Modifiers.md",
             "mode": "source"
           }
         }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Deform Modifiers/Armature Modifier.md",
+                "file": "Literature/Modifiers - MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "13cf6f576a4daada",
+  "active": "c7ea4aab04809496",
   "lastOpenFiles": [
+    "Literature/Modifiers - MOC.md",
+    "Fleeting/Modifiers.md",
+    "Permanent/Utilizando Curve Modifier.md",
     "Literature/Deform Modifiers/Armature Modifier.md",
     "Permanent/Como associar hooks.md",
-    "Literature/Modifiers - MOC.md",
     "Permanent/Blender - MOC.md",
     "Literature/Extruding.md",
     "Literature/Deform Modifiers/ShrinkWrap Modifier.md",
     "Literature/Deform Modifiers/Mesh Deform Modifier.md",
-    "Literature/Deform Modifiers/Lattice Modifier.md",
-    "Literature/Deform Modifiers/Laplacian Deform Modifier.md",
-    "Literature/Deform Modifiers/Hook Modifier.md"
+    "Literature/Deform Modifiers/Lattice Modifier.md"
   ]
 }
