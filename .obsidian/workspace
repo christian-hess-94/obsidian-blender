@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/Texturing/UV Map.md",
+            "file": "Literature/Texturing/UV Unwrapping.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Texturing/UV Map.md",
+                "file": "Literature/Texturing/UV Unwrapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "30dbd6ad976a184d",
   "lastOpenFiles": [
+    "Literature/Texturing/UV Unwrapping.md",
     "Literature/Texturing/UV Map.md",
     "Literature/Texturing/Texture Baking.md",
     "Literature/Texturing/Texture Paint.md",
@@ -96,7 +97,6 @@
     "Permanent/Treino.md",
     "Fleeting/Texture Baking.md",
     "Permanent/Normal Map - Baking.md",
-    "Permanent/Texturing - Aplicando Normal Map.md",
-    "Permanent/Texturing - Pintar textura.md"
+    "Permanent/Texturing - Aplicando Normal Map.md"
   ]
 }
