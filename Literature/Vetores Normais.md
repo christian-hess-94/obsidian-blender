@@ -11,8 +11,11 @@ O caso de uso mais comum do Vetor Normal é para renderização de materiais na 
 
 Isso significa que a engine não renderiza as faces opostas (ou "de dentro") da geometria, aumentando sua performance.  Esse processo se chama **Face Culling**
 
-Em contrapartida, isso faz com o ladooposto  do objeto "não exista" e seja transparente, o que pode trazer problemas depend no tipo de
 ![[Face Culling.png]]
+
+Em contrapartida, isso faz com o ladooposto  do objeto "não exista" e seja transparente, o que pode trazer problemas dependo do que deve ser mostrado.
+
+![[Face Culling 2.png]]
 
 ---
 ## Referências

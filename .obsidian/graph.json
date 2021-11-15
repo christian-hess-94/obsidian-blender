@@ -25,14 +25,14 @@
       "query": "tag:#deform_modifiers",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 5315163
       }
     },
     {
       "query": "tag:#modify_modifiers",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 1336852
       }
     },
     {
@@ -40,6 +40,13 @@
       "color": {
         "a": 1,
         "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:Permanent",
+      "color": {
+        "a": 1,
+        "rgb": 15917570
       }
     }
   ],
@@ -53,6 +60,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.36288736930121757,
+  "scale": 0.25883865621816754,
   "close": false
 }
