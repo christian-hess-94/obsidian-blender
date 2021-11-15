@@ -20,11 +20,8 @@
         "id": "21537be26665d11f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Permanent/Exportando para Unity.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -81,7 +78,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent/Exportando para Unity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,14 +98,14 @@
   "active": "21537be26665d11f",
   "lastOpenFiles": [
     "Permanent/Exportando para Unity.md",
+    "Templates/Note Template.md",
+    "Modelagem não destrutiva.md",
+    "Literature/Extrusão.md",
+    "Literature/Extruding.md",
+    "Literature/Modifiers - MOC.md",
     "Permanent/Atalhos.md",
     "Permanent/Blender - MOC.md",
     "Permanent/Utilizando Curve Modifier.md",
-    "Permanent/Como associar hooks.md",
-    "Permanent/Efeito de Fade.md",
-    "Literature/Generate Modifiers/Generate Modifiers - MOC.md",
-    "Literature/Generate Modifiers/Weld Modifier.md",
-    "Literature/Generate Modifiers/Wireframe Modifier.md",
-    "Literature/Generate Modifiers/Triangulate Modifier.md"
+    "Permanent/Como associar hooks.md"
   ]
 }
