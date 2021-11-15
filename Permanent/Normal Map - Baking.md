@@ -1,9 +1,11 @@
-# Baking de um Normal Map
+# Normal Map - Baking
 Criado: 15/11/2021 - 15:10
 
-tags: #no_tag 
+tags: #texturing #baking
 
 ---
+
+`Esse mesmo processo vale para criar outros tipos de mapa, basta mudar o bake type de “Normal” para “Diffuse”, “Specular”, etc.`
 
 #### Para fazer o baking deve-se primeiro criar o modelo low-poly.
 - Crie uma cópia do modelo low-poly e adicione detalhes com ajuda de brushes no modo sculpting
@@ -35,6 +37,9 @@ tags: #no_tag
 - Caso a mesh possua muitos espaços "verdes" ou "mostarda" o bake não foi bem sucedido
 - Expanda a caixa do SELECT TO ACTIVE e incremente a opção "Ray Distance" e tente novamente
   - Aumente e diminua essa opção até obter um resultado satisfatório (totalmente roxo com vermelho e azul)
+
+
+
 
 ---
 ## Referências
