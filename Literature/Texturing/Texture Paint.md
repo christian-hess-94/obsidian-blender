@@ -1,7 +1,7 @@
 # Texture Paint
 Criado: 15/11/2021 - 15:05
 
-tags: #no_tag 
+tags: #texturing 
 
 ---
 
