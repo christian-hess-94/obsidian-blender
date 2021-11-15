@@ -9,7 +9,7 @@ UV Unwrapping é um processo executado em cima de um objeto 3D que cria um [[UV 
 
 O processo pode ser feito manualmente pelo artista, selecionando trechos do objeto 3D e fazendo o Unwrap de cada parte, mas também pode ser feito de forma automatizada podendo ser alterado diretamente com a criação de [[Seams]].
 
-![[UV Mapping Algorithms.png]]
+![[UV Unwrapping Algorithms.png]]
 
 - **Smart UV** é um processo que faz o unwrap completo da imagem e automaticamente cria o [[UV Map]] correpondente. Isso facilita o processo de [[Texture Paint]] que necessita de um [[UV Map]] associado ao objeto.
 - **Cube Projection** realiza um Smart UV porém transforma todas as ilhas em formas quadráticas afim de organizar o [[UV Map]] gerado

@@ -10,7 +10,7 @@ Durante a [[Exportação para Unity]], o objeto é triangularizado automaticamen
 
 | Antes | Depois |
 | ------ | ------- |
-| ![[Pasted image 20211115155217.png]] | ![[Pasted image 20211115155247.png]] |
+| ![[Triangulate - Before.png]] | ![[Triangulate - After.png]] |
 
 ---
 ## Referências

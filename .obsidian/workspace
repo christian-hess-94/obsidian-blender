@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"UV Map\"",
+                "query": "algori",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -89,14 +89,14 @@
   "active": "30dbd6ad976a184d",
   "lastOpenFiles": [
     "Literature/Materiais Procedurais.md",
+    "Literature/Texturing/UV Unwrapping.md",
+    "Literature/Vetores Normais.md",
+    "Attachments/Triangulate - After.png",
+    "Attachments/Triangulate - Before.png",
+    "Attachments/UV Unwrapping Algorithms.png",
     "Literature/Material.md",
     "Literature/Esculpir.md",
     "Literature/Extrusão.md",
-    "Literature/Modelagem.md",
-    "Extruding.md",
-    "Literature/Vetores Normais.md",
-    "Attachments/Face Culling 2.png",
-    "Attachments/Face Culling.png",
-    "Literature/Modify Modifiers/Normal Edit Modifier.md"
+    "Literature/Modelagem.md"
   ]
 }
