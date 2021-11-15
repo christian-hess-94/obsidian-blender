@@ -1,7 +1,7 @@
 # Texturing - Aplicando Normal Map
 Criado: 15/11/2021 - 15:27
 
-tags: #no_tag 
+tags: #texturing 
 
 ---
 

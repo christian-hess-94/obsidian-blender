@@ -1,4 +1,4 @@
-# Exportando para Unity
+# Exportação para Unity
 Criado: 15/11/2021 - 14:41
 
 tags: #gamedev 

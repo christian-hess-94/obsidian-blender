@@ -14,7 +14,7 @@ Blender é um software usado para
 em um ambiente 3D virtual.
 
 Muito famoso entre pessoas que estão entrando nesse mundo, possui também integração com diversas plataformas terceiras:
-- [[Exportando para Unity]]
+- [[Exportação para Unity]]
 
 
 O software é gratuito e pode ser baixado do seu site oficial.
