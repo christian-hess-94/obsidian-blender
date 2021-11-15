@@ -1,7 +1,7 @@
 # Aplicar múltiplos Materiais
 Criado: 15/11/2021 - 15:06
 
-tags: #material 
+tags: #material #texturing 
 
 ---
 
