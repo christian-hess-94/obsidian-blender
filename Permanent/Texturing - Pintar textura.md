@@ -1,4 +1,4 @@
-# Como pintar uma textura
+# Texturing - Pintar textura
 Criado: 15/11/2021 - 15:05
 
 tags: #texturing 

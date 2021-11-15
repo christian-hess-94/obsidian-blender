@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Permanent/Texturing - Múltiplos materiais.md",
+            "file": "Permanent/Texturing - Pintar textura.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent/Texturing - Múltiplos materiais.md",
+                "file": "Permanent/Texturing - Pintar textura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +101,9 @@
   },
   "active": "f7a84d07c78d797d",
   "lastOpenFiles": [
+    "Permanent/Texturing - Pintar textura.md",
     "Permanent/Texturing - Múltiplos materiais.md",
     "Permanent/Animation - Usando hooks.md",
-    "Permanent/Texture - Painting.md",
     "Permanent/Normal Map - Baking.md",
     "Fleeting/Texture Baking.md",
     "Permanent/Treino.md",
