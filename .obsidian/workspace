@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/Generate Modifiers/Skin Modifier.md",
+            "file": "Permanent/Exportando para Unity.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Generate Modifiers/Skin Modifier.md",
+                "file": "Permanent/Exportando para Unity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "21537be26665d11f",
   "lastOpenFiles": [
-    "Literature/Generate Modifiers/Skin Modifier.md",
+    "Permanent/Exportando para Unity.md",
+    "Permanent/Atalhos.md",
+    "Permanent/Blender - MOC.md",
+    "Permanent/Utilizando Curve Modifier.md",
+    "Permanent/Como associar hooks.md",
+    "Permanent/Efeito de Fade.md",
     "Literature/Generate Modifiers/Generate Modifiers - MOC.md",
-    "Literature/Generate Modifiers/Screw Modifier.md",
-    "Literature/Generate Modifiers/Remesh Modifier.md",
-    "Literature/Generate Modifiers/Multiresolution Modifier.md",
-    "Literature/Generate Modifiers/Mirror Modifier.md",
-    "Literature/Generate Modifiers/Mask Modifier.md",
-    "Templates/Note Template.md",
-    "Literature/Generate Modifiers/Split Edge Modifier.md",
-    "Literature/Generate Modifiers/Decimate Modifier.md"
+    "Literature/Generate Modifiers/Weld Modifier.md",
+    "Literature/Generate Modifiers/Wireframe Modifier.md",
+    "Literature/Generate Modifiers/Triangulate Modifier.md"
   ]
 }

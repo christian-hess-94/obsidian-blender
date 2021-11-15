@@ -1,4 +1,11 @@
-﻿Crie o objeto a ser importado dentro do Blender
+# Exportando para Unity
+Criado: 15/11/2021 - 14:41
+
+tags: #gamedev 
+
+---
+
+Crie o objeto a ser importado dentro do Blender
 
 1. Salve o objeto como arquivo .blend
    1. Use o arquivo .blend dentro do projeto da Unity para prototipar coisas simples como tamanho do objeto em relação ao resto do jogo
@@ -52,4 +59,10 @@ Configurando animações para funcionar com o Animator da Unity:
 1. Caso alguma animação configurada como Loop (seção anterior - 1) esteja loopando antes de finalizar
    1. Selecione a transição que leva à animação dentro do Animator
    1. Desablite a opção "Can Transition to self"
+
+---
+## Referências
+1.
+
+
 
