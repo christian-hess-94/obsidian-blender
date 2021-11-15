@@ -17,6 +17,8 @@ O UV Map também é utilizado em processos de [[Texture Baking]], para que possa
 
 O ato de criar uma UV Map a partir de um objeto 3D se chama [[UV Unwrapping]] e pode ser feito de forma manual ou automática, usando diversos algoritmos.
 
+O UV Map é dividido em "***ilhas***", isto é, diversas seções da representação do Objeto 3D no plano 2D.
+
 ---
 ## Referências
 1. https://pt.wikipedia.org/wiki/Mapeamento_UV

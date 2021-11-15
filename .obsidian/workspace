@@ -7,11 +7,8 @@
         "id": "30dbd6ad976a184d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Literature/Texturing/UV Unwrapping.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Texturing/UV Unwrapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,14 +85,14 @@
   "active": "30dbd6ad976a184d",
   "lastOpenFiles": [
     "Literature/Texturing/UV Unwrapping.md",
+    "Literature/Texturing/UV Map.md",
+    "Attachments/UV Mapping Algorithms.png",
     "Literature/Extrusão.md",
     "Literature/Generate Modifiers/Skin Modifier.md",
-    "Literature/Texturing/UV Map.md",
     "Literature/Texturing/Texture Baking.md",
     "Literature/Texturing/Texture Paint.md",
     "Permanent/Scatter Objects.md",
     "Permanent/Addons.md",
-    "Permanent/Treino.md",
-    "Fleeting/Texture Baking.md"
+    "Permanent/Treino.md"
   ]
 }
