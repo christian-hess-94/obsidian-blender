@@ -1,7 +1,7 @@
 # {{title}}
 Criado: {{date}} - {{time}}
 
-tags: 
+tags: #generate_modifiers 
 
 ---
 

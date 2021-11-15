@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/Modify Modifiers/Modify Modifiers - MOC.md",
+            "file": "Literature/Generate Modifiers/Generate Modifiers - MOC.md",
             "mode": "source"
           },
           "pinned": true
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/Modify Modifiers/Data Transfer Modifier.md",
+            "file": "Literature/Generate Modifiers/Skin Modifier.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Modify Modifiers/Data Transfer Modifier.md",
+                "file": "Literature/Generate Modifiers/Skin Modifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "21537be26665d11f",
   "lastOpenFiles": [
-    "Literature/Modify Modifiers/Data Transfer Modifier.md",
-    "Literature/Modify Modifiers/Modify Modifiers - MOC.md",
-    "Vertex Weight Mix Modifier.md",
-    "Literature/Modify Modifiers/Vertex Weight Edit Modifier.md",
-    "Literature/Modify Modifiers/UV Wrap Modifier.md",
-    "Literature/Modify Modifiers/UV Project Modifier.md",
-    "Literature/Modify Modifiers/Weighted Normal Modifier.md",
-    "Literature/Modify Modifiers/Vertex Weight Proximity Modifier.md",
-    "Literature/Modify Modifiers/Normal Edit Modifier.md",
-    "Literature/Modify Modifiers/Mesh Sequence Modifier.md"
+    "Literature/Generate Modifiers/Skin Modifier.md",
+    "Literature/Generate Modifiers/Generate Modifiers - MOC.md",
+    "Literature/Generate Modifiers/Screw Modifier.md",
+    "Literature/Generate Modifiers/Remesh Modifier.md",
+    "Literature/Generate Modifiers/Multiresolution Modifier.md",
+    "Literature/Generate Modifiers/Mirror Modifier.md",
+    "Literature/Generate Modifiers/Mask Modifier.md",
+    "Templates/Note Template.md",
+    "Literature/Generate Modifiers/Split Edge Modifier.md",
+    "Literature/Generate Modifiers/Decimate Modifier.md"
   ]
 }
