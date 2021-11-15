@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/Texturing/Vetores Normal.md",
+            "file": "Literature/Vetores Normais.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Texturing/Vetores Normal.md",
+                "file": "Literature/Vetores Normais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,8 @@
   },
   "active": "30dbd6ad976a184d",
   "lastOpenFiles": [
-    "Literature/Texturing/Vetores Normal.md",
+    "Literature/Vetores Normais.md",
+    "Attachments/Face Culling.png",
     "Literature/Modify Modifiers/Normal Edit Modifier.md",
     "Literature/Generate Modifiers/Screw Modifier.md",
     "Literature/Modelagem.md",
@@ -96,7 +97,6 @@
     "Permanent/Modelling - Criar uma mola.md",
     "Literature/Generate Modifiers/Triangulate Modifier.md",
     "Literature/Texturing/UV Unwrapping.md",
-    "Permanent/Exportação para Unity.md",
-    "Permanent/Texturing - Aplicando Normal Map.md"
+    "Permanent/Exportação para Unity.md"
   ]
 }
