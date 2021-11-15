@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/Materiais Procedurais.md",
+            "file": "Literature/Material.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Materiais Procedurais.md",
+                "file": "Literature/Material.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "30dbd6ad976a184d",
   "lastOpenFiles": [
+    "Literature/Material.md",
+    "Edit Mode.md",
     "Literature/Materiais Procedurais.md",
     "Literature/Texturing/UV Unwrapping.md",
     "Literature/Vetores Normais.md",
     "Attachments/Triangulate - After.png",
     "Attachments/Triangulate - Before.png",
     "Attachments/UV Unwrapping Algorithms.png",
-    "Literature/Material.md",
     "Literature/Esculpir.md",
-    "Literature/Extrusão.md",
-    "Literature/Modelagem.md"
+    "Literature/Extrusão.md"
   ]
 }
