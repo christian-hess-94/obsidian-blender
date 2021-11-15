@@ -1,4 +1,4 @@
-﻿1. UVSquares: <https://github.com/Radivarig/UvSquares>
+1. UVSquares: <https://github.com/Radivarig/UvSquares>
 1. Node Wrangler: Blender
 1. Sapling Tree Gen: Blender
 1. Scatter Objects: Blender 

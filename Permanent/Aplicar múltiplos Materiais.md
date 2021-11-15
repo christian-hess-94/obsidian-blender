@@ -1,16 +1,9 @@
-[[Material]]:
+# Aplicar múltiplos Materiais
+Criado: 15/11/2021 - 15:06
 
+tags: #material 
 
-
-
-
-[[Texture Paint]]
-
-
-
-
-
-Aplicando múltiplos materiais:
+---
 
 - Crie todos os materiais na aba de materiais usando o + ou o botão de duplicar
 - Abra o objeto em modo de edição
@@ -20,3 +13,7 @@ Aplicando múltiplos materiais:
 - Certifique de estar no moto "Material Preview" ou "Rendered" para ver 
   - Se o material for modificado, as mudanças afetarão todos as meshes e seções de meshes com o material aplicado
 
+
+---
+## Referências
+1. [[Material]]

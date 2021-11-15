@@ -4,25 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "c7ea4aab04809496",
+        "id": "21537be26665d11f",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting/Texture Painting _ Materials.md",
+            "file": "Fleeting/Texture Baking.md",
             "mode": "source"
           },
           "pinned": true
         }
       },
       {
-        "id": "21537be26665d11f",
+        "id": "f7a84d07c78d797d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Permanent/Como pintar uma textura.md",
+            "file": "Permanent/Baking de um Normal Map.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent/Como pintar uma textura.md",
+                "file": "Permanent/Baking de um Normal Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "21537be26665d11f",
+  "active": "f7a84d07c78d797d",
   "lastOpenFiles": [
-    "Permanent/Como pintar uma textura.md",
-    "Literature/Texture Paint.md",
-    "Literature/Material.md",
-    "Literature/Modelagem.md",
-    "Fleeting/Texture Painting _ Materials.md",
-    "Permanent/Utilizando Curve Modifier.md",
-    "Literature/Generate Modifiers/Generate Modifiers - MOC.md",
+    "Permanent/Baking de um Normal Map.md",
     "Fleeting/Texture Baking.md",
-    "Permanent/Treino.md",
-    "Permanent/Exportando para Unity.md"
+    "Permanent/Utilizando Curve Modifier.md",
+    "Literature/Texture Baking.md",
+    "Literature/Texture Paint.md",
+    "Fleeting/Addons.md",
+    "Permanent/Aplicar múltiplos Materiais.md",
+    "Fleeting/Texture Painting _ Materials.md",
+    "Permanent/Exportando para Unity.md",
+    "Permanent/Como pintar uma textura.md"
   ]
 }

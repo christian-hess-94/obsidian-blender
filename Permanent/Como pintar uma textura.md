@@ -19,4 +19,4 @@ tags: #texturing
 
 ---
 ## Referências
-1.
+1. [[Texture Paint]]
