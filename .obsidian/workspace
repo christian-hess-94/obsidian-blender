@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/Generate Modifiers/Generate Modifiers - MOC.md",
+            "file": "Fleeting/Texture Painting _ Materials.md",
             "mode": "source"
           },
           "pinned": true
@@ -20,8 +20,11 @@
         "id": "21537be26665d11f",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Permanent/Como pintar uma textura.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -78,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Permanent/Como pintar uma textura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +101,15 @@
   },
   "active": "21537be26665d11f",
   "lastOpenFiles": [
-    "Permanent/Exportando para Unity.md",
-    "Templates/Note Template.md",
-    "Modelagem não destrutiva.md",
-    "Literature/Extrusão.md",
-    "Literature/Extruding.md",
-    "Literature/Modifiers - MOC.md",
-    "Permanent/Atalhos.md",
-    "Permanent/Blender - MOC.md",
+    "Permanent/Como pintar uma textura.md",
+    "Literature/Texture Paint.md",
+    "Literature/Material.md",
+    "Literature/Modelagem.md",
+    "Fleeting/Texture Painting _ Materials.md",
     "Permanent/Utilizando Curve Modifier.md",
-    "Permanent/Como associar hooks.md"
+    "Literature/Generate Modifiers/Generate Modifiers - MOC.md",
+    "Fleeting/Texture Baking.md",
+    "Permanent/Treino.md",
+    "Permanent/Exportando para Unity.md"
   ]
 }

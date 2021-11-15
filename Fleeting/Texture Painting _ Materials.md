@@ -1,40 +1,14 @@
-﻿Material:
+[[Material]]:
 
-- Nome de algo que dá cor, textura a uma mesh
-- Os materiais são aplicados nas faces de uma mesh
-- Materiais podem ser de vários tipos
-  - Imagem, Vídeo ou Geradas
-- Materiais do tipo Imagem pegam informações de cor e textura de um arquivo externo 
-  - jpg, png, por exemplo
-- Materiais do tipo vídeo mostram um vídeo na superfície onde são aplicados
-- Materiais gerados usam o sistemas de nodes para criar cores e texturas
 
-Pintando com Texture Paint:
 
-- Texture paint permite que a textura da mesh possa ser pintada digitalmente
-- As informações de cores feitas pela pintura são salvas em uma imagem
-  - Textura pintada sempre é aplicada a um material do tipo Imagem
-- A mesh precisa ser mapeada no arquivo de imagem (UV Unwrap)
 
-**Como fazer:**
 
-- Certificar que o objeto foi UV Unwrapped 
-  - Usar SMART UV UNWRAP para um quickstart
-- Abrir workspace de texture paint (Image Editor / 3D viewport + Texture Paint)
-- Selecionar objeto a ser pintado
-- No Image Editor (esquerda) clicar em "New +" para criar uma nova imagem vazia.
-  - Especifique a resolução e o nome
-  - Essa imagem irá receber a textura pintada usando o UV Unwrap do objeto
-- Abra o painel de Materials
-- Associe um novo material ao objeto
-- Na opção Base Color, clicar na bolinha do lado da cor e escolha Image Texture
-- No dropdown, escolha a imagem gerada nos passos anteriores
+[[Texture Paint]]
 
-Propriedades de Materials: 
 
-- Volume: Afeta como a luz interage com o volume do objeto
-- Volume Absorption: Usado para aumentar refratação causada pelo volume do objeto 
-  - Aparência de água turva, café, etc
+
+
 
 Aplicando múltiplos materiais:
 

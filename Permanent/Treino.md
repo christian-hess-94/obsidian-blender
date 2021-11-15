@@ -1,7 +1,13 @@
-﻿**Blender**
+# Treino
+Criado: 15/11/2021 - 15:02
 
-- Seguir cronograma e anotar as instruções em arquivos docx na pasta Blender
-- Min. 1 por dia
+tags: #wip 
+
+---
+
+**Blender**
+
+- Seguir cronograma e anotar versões resumidas dos tutoriais em novos Permanent
 
 **Cronograma**
 
@@ -38,3 +44,9 @@
    1. **Animate Camera on path: [https://www.youtube.com/watch?v=K02hlKyoWNI&list=PL1CwarsnRVRSCesHzWhqEeCgdAaPr-kWI&index=18&t=0s**](https://www.youtube.com/watch?v=K02hlKyoWNI&list=PL1CwarsnRVRSCesHzWhqEeCgdAaPr-kWI&index=18&t=0s)**
 1. **Grease Pencil / 2D**
    1. [**https://www.youtube.com/watch?v=9N-glGarYuM&list=PL1CwarsnRVRSCesHzWhqEeCgdAaPr-kWI&index=24&t=0s**](https://www.youtube.com/watch?v=9N-glGarYuM&list=PL1CwarsnRVRSCesHzWhqEeCgdAaPr-kWI&index=24&t=0s)
+
+
+---
+## Referências
+1.
+
