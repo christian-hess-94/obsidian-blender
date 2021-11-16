@@ -1,7 +1,7 @@
 # UV Warp Modifier
 Criado: 14/11/2021 - 15:27
 
-tags: #modify_modifiers #wip
+tags: #modify_modifiers
 
 ---
 
