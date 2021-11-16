@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/Remove Doubles (Merge By Distance).md",
+            "file": "Literature/Texturas.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Remove Doubles (Merge By Distance).md",
+                "file": "Literature/Texturas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "30dbd6ad976a184d",
   "lastOpenFiles": [
+    "Literature/Texturas.md",
     "Literature/Remove Doubles (Merge By Distance).md",
+    "Attachments/Remove Doubles Demo.png",
     "Attachments/Merge By Distance.png",
     "Normal Map.md",
     "Tipos de textura.md",
     "Permanent/Animation - Local Billboard Effect.md",
     "Blender - MOC.md",
     "Literature/Animação.md",
-    "Permanent/Efeito de Fade.md",
-    "Literature/Shape Keys.md",
-    "Criação de Texturas.md"
+    "Permanent/Efeito de Fade.md"
   ]
 }

@@ -13,8 +13,11 @@ Para usar, abre o [[Edit Mode]], aperte M e selecione "Merge By Distance"
 ![[Merge By Distance.png]]
 Controle a distancia que deseja que os vértices se juntem. Cuidado ao alterar esse valor para que o objeto em si não fique distrocido
 
+![[Remove Doubles Demo.png]]
 
 Esquerda: original | Meio: 0.0601m | Direita: 0.14m
+
+O processo é um pouco parecido com o [[Decimate Modifier]], mas as mudanças feitas pelo Remove Doubles são permanentes após a operação ser finalizada.
 
 ---
 ## Referências
