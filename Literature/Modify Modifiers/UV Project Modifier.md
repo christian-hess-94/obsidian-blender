@@ -12,8 +12,6 @@ Esse processos requer que o objeto que está "recebendo" a projeção tenha seu 
 Essencialmente, o objeto consegue modificar a posição, rotação e escala do UV Map:
 ![[UV Project Modifier - Demo.mp4]]
 
-Quando usa
-
 ---
 ## Referências
 1. [[Animation - Local Billboard Effect]]
