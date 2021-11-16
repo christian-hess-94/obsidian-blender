@@ -6,6 +6,19 @@
       {
         "id": "30dbd6ad976a184d",
         "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Literature/Texturas.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "6f0019783c794878",
+        "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
@@ -89,6 +102,7 @@
   "active": "30dbd6ad976a184d",
   "lastOpenFiles": [
     "Literature/Texturas.md",
+    "Attachments/Roughness Map.png",
     "Permanent/Texturing - Normal Map Baking.md",
     "Literature/Remove Doubles (Merge By Distance).md",
     "Attachments/Remove Doubles Demo.png",
@@ -96,7 +110,6 @@
     "Normal Map.md",
     "Tipos de textura.md",
     "Permanent/Animation - Local Billboard Effect.md",
-    "Blender - MOC.md",
-    "Literature/Animação.md"
+    "Blender - MOC.md"
   ]
 }
