@@ -8,8 +8,7 @@ tags:
 Blender é um software usado para
 - [[Modelagem]]
 - [[Animação]]
-- [[Edição de vídeo]]
-- [[Criação de Texturas]] 
+- [[Texturas]] 
 em um ambiente 3D virtual.
 
 Muito famoso entre pessoas que estão entrando nesse mundo, possui também integração com diversas plataformas terceiras:

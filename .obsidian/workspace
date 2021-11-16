@@ -7,8 +7,11 @@
         "id": "30dbd6ad976a184d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Literature/Remove Doubles.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Literature/Remove Doubles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "30dbd6ad976a184d",
   "lastOpenFiles": [
-    "Literature/Texturas.md",
     "Literature/Remove Doubles.md",
-    "Literature/Eixos locais.md",
-    "Literature/Esculpir.md",
-    "Permanent/Modelling - Arvores low poly.md",
-    "Literature/Alembic.md",
-    "Literature/Edit Mode.md",
+    "Normal Map.md",
+    "Tipos de textura.md",
+    "Permanent/Animation - Local Billboard Effect.md",
     "Blender - MOC.md",
-    "Literature/Modify Modifiers/Vertex Weight Proximity Modifier.md",
-    "Literature/Modify Modifiers/Mesh Cache Modifier.md"
+    "Literature/Animação.md",
+    "Permanent/Efeito de Fade.md",
+    "Literature/Shape Keys.md",
+    "Criação de Texturas.md",
+    "Literature/FBX.md"
   ]
 }
