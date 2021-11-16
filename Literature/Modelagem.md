@@ -9,6 +9,7 @@ Modelagem é o ato de criar objetos em um ambiente 3D virtual. Esses objetos pod
 Existem duas formas de criar objetos 3D no blender:
 - [[Esculpir]]
 - [[Extrusão]]
+
 ---
 ## Referências
 1.

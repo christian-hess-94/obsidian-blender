@@ -17,7 +17,7 @@ Controle a distancia que deseja que os vértices se juntem. Cuidado ao alterar e
 
 Esquerda: original | Meio: 0.0601m | Direita: 0.14m
 
-O processo é um pouco parecido com o [[Decimate Modifier]], mas as mudanças feitas pelo Remove Doubles são permanentes após a operação ser finalizada.
+Esse processo pode ser feito de maneira não destrutiva através do [[Weld Modifier]].
 
 ---
 ## Referências
