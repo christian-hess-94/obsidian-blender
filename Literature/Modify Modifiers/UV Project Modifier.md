@@ -9,8 +9,11 @@ Permite utilizar um objeto como um “projetor” que projeta a textura em cima 
 
 Esse processos requer que o objeto que está "recebendo" a projeção tenha seu [[UV Map]] configurado.
 
+Essencialmente, o objeto consegue modificar a posição, rotação e escala do UV Map:
+![[UV Project Modifier - Demo.mp4]]
+
 ---
 ## Referências
-1. [[Projetando imagem]]
+1. [[Animation - Letreiro]]
 2. https://www.youtube.com/watch?v=2KsgP3RUWQQ
 3. https://www.youtube.com/watch?v=dr7Flg9Vm3E

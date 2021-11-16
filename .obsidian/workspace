@@ -4,15 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "30dbd6ad976a184d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Literature/Modify Modifiers/UV Project Modifier.md",
-            "mode": "source"
+        "id": "09d2be56f78d7b0e",
+        "type": "split",
+        "children": [
+          {
+            "id": "30dbd6ad976a184d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/Modify Modifiers/UV Project Modifier.md",
+                "mode": "source"
+              }
+            },
+            "group": "18a6b4a22646c65f"
+          },
+          {
+            "id": "1c4d24db8705d7bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Literature/Modify Modifiers/UV Project Modifier.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "group": "18a6b4a22646c65f"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -89,6 +115,7 @@
   "active": "30dbd6ad976a184d",
   "lastOpenFiles": [
     "Literature/Modify Modifiers/UV Project Modifier.md",
+    "Attachments/UV Project Modifier - Demo.mp4",
     "Literature/Modify Modifiers/UV Warp Modifier.md",
     "Attachments/UV Warp Interface.png",
     "Literature/Materiais Procedurais.md",
@@ -96,7 +123,6 @@
     "Eixos locais.md",
     "Permanent/Modelling- Objeto que segue uma Curve.md",
     "Permanent/Exportação para Unity.md",
-    "Literature/Modify Modifiers/Mesh Sequence Modifier.md",
-    "Edit Mode.md"
+    "Literature/Modify Modifiers/Mesh Sequence Modifier.md"
   ]
 }
