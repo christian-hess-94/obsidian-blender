@@ -4,41 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "09d2be56f78d7b0e",
-        "type": "split",
-        "children": [
-          {
-            "id": "30dbd6ad976a184d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Permanent/Animation - Billboard Effect.md",
-                "mode": "source"
-              }
-            },
-            "group": "18a6b4a22646c65f"
-          },
-          {
-            "id": "1c4d24db8705d7bc",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Permanent/Animation - Billboard Effect.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            },
-            "group": "18a6b4a22646c65f"
+        "id": "30dbd6ad976a184d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Permanent/Animation - GreenScreen Project.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -94,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent/Animation - Billboard Effect.md",
+                "file": "Permanent/Animation - GreenScreen Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +88,8 @@
   },
   "active": "30dbd6ad976a184d",
   "lastOpenFiles": [
-    "Permanent/Animation - Billboard Effect.md",
+    "Permanent/Animation - GreenScreen Project.md",
+    "Permanent/Animation - Local Billboard Effect.md",
     "Literature/Modify Modifiers/UV Project Modifier.md",
     "Attachments/UV Project Modifier - Demo.mp4",
     "Literature/Modify Modifiers/UV Warp Modifier.md",
@@ -122,7 +97,6 @@
     "Literature/Materiais Procedurais.md",
     "Literature/Material.md",
     "Eixos locais.md",
-    "Permanent/Modelling- Objeto que segue uma Curve.md",
-    "Permanent/Exportação para Unity.md"
+    "Permanent/Modelling- Objeto que segue uma Curve.md"
   ]
 }
