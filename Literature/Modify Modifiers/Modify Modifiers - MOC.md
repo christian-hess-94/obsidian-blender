@@ -7,8 +7,6 @@ tags:  #modify_modifiers
 
 Modifiers Modificadores realizam operações que alteram diretamente a geometria do objeto sendo construído.
 
-Essas alterações são chamadas de [[Modelagem não destrutiva]].
-
 ### Lista de modifiers
 - [[Data Transfer Modifier]] 
 - [[Mesh Cache Modifier]] 

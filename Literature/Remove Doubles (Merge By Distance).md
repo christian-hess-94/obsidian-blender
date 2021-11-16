@@ -7,7 +7,7 @@ tags: #modelling
 
 Remove doubles é uma técnica para remoção vértices que tenham sido criados muito proximos durante o processo de [[Modelagem]].
 
-Esse tipo de vertice duplicado pode aparecer durante a aplicação de alguns processos de subdivisão dos #modify_modifiers, sendo bastante importante que sejam corrigido para que não ocorram glitches durante uma possível animação ou aplicação de [[Material]].
+Esse tipo de vertice duplicado pode aparecer durante a aplicação de alguns processos de subdivisão dos #modify_modifiers, sendo bastante importante que sejam corrigido para que não ocorram glitches durante uma possível animação.
 
 Para usar, abre o [[Edit Mode]], aperte M e selecione "Merge By Distance"
 ![[Merge By Distance.png]]

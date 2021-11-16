@@ -7,11 +7,8 @@
         "id": "6f0019783c794878",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Literature/Extrusão.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Extrusão.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +84,15 @@
   },
   "active": "6f0019783c794878",
   "lastOpenFiles": [
-    "Literature/Extrusão.md",
+    "Permanent/Texturing - Aplicando Normal Map.md",
+    "Literature/Modify Modifiers/Modify Modifiers - MOC.md",
+    "Literature/Modelagem não destrutiva.md",
+    "Literature/Modifiers - MOC.md",
+    "Permanent/Animation - GreenScreen Projection.md",
+    "Literature/Deform Modifiers/ShrinkWrap Modifier.md",
+    "Ambient Occlusion.md",
+    "Literature/Remove Doubles (Merge By Distance).md",
     "Literature/Modelagem.md",
-    "Literature/Edit Mode.md",
-    "Literature/Texturas.md",
-    "Attachments/Emission Map.png",
-    "Attachments/Metalness Map.png",
-    "Attachments/Normal Map.png",
-    "Attachments/Color Map.png",
-    "Attachments/Specular Map.png",
-    "Attachments/Roughness Map.png"
+    "Literature/Extrusão.md"
   ]
 }
