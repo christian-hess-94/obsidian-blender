@@ -1,7 +1,7 @@
 # UV Project Modifier
 Criado: 14/11/2021 - 15:25
 
-tags: #modify_modifiers #wip 
+tags: #modify_modifiers 
 
 ---
 
@@ -11,6 +11,8 @@ Esse processos requer que o objeto que está "recebendo" a projeção tenha seu 
 
 Essencialmente, o objeto consegue modificar a posição, rotação e escala do UV Map:
 ![[UV Project Modifier - Demo.mp4]]
+
+Quando usa
 
 ---
 ## Referências

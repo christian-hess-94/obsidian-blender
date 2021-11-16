@@ -1,18 +1,14 @@
 # Animation - GreenScreen Project
 Criado: 16/11/2021 - 18:35
 
-tags: #animation 
+tags: #animation #wip
 
 ---
 
-Este truque faz uso do Local Billboard Effect
-- Siga o tutorial do [[Animation - Local Billboard Effect]]
-- Troque a imagem que adiciona cor pelo vídeo que deseja representar em 3D 
-- Abra o [[Edit Mode]] do objeto que está recebendo o efeito do billboard com o video
-- Adicione geometria para imitar o que está aparecendo no vídeo
-- Devido ao billboard, o vídeo vai ser projetado por cima da geometria facilitando a adição de novos elementos como luzes e outros objetos
+Este truque faz uso busca juntar o tutorial de greenscreen do ian hubert com o o Local BillBoard para tentar representar a cena em 3D de maneira fiel
 
 
 ---
 ## Referências
-1. [[Animation - Local Billboard Effect]]
+1. https://www.youtube.com/watch?v=RxD6H3ri8RI
+2. [[Animation - Local Billboard Effect]]
