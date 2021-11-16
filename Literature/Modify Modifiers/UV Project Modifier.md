@@ -12,3 +12,4 @@ Esse processos requer que o objeto que está "recebendo" a projeção tenha seu 
 ---
 ## Referências
 1. [[Projetando imagem]]
+2. https://www.youtube.com/watch?v=2KsgP3RUWQQ
