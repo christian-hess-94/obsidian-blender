@@ -5,11 +5,11 @@ tags: #modelling
 
 ---
 
-Técnica de [[Modelagem não destrutiva]] muito usada para criação de formas básicas da geometria de um objeto 3D.
+Técnica de [[Modelagem]] muito usada para criação de formas básicas da geometria de um objeto 3D. Essa técnica apenas pode ser usada no [[Edit Mode]].
 
 - Extrusão é uma técnica de modelagem que faz uso da duplicação de vértices, arestas e faces de um objeto 3D.
 - Facilita o workflow ao conectar os vertices, arestas e faces duplicadas às suas contrapartes anteriores.
-- É de extrema eficaz na criação de novas geometrias
+- É de extrema eficacia na criação de novas geometrias
 - Faces são extrudidas em relação ao seu vetor normal
 
 ---

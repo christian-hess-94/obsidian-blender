@@ -1,7 +1,7 @@
 # Texturas
 Criado: 16/11/2021 - 19:01
 
-tags: #texturing #wip 
+tags: #texturing 
 
 ---
 
@@ -20,6 +20,8 @@ Em geral são consideradas as seguintes:
 - Metalness: Um tipo de mapa especial que indica quais parte da superficie devem ser consideradas metálicas, alterando a forma como refletem a luz
 	- ![[Metalness Map.png]]
 - [[Ambient Occlusion]]: Normalmente gerado a partir do processo de [[Texture Baking]], adiciona sombras em locais de proximidade na geometria, dando uma maior sensação de profundidade
+- Emission: indica quais parte da geometria emitem luz que afeta outros objetos na cena
+	- ![[Emission Map.png]]
 
 ---
 ## Referências
