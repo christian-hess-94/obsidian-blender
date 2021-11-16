@@ -11,4 +11,4 @@ CONTENT
 ## Referências
 1. [[Texturas]]
 2. [[Texture Baking]]
-3. [[Normal Map - Baking]]
+3. [[Texturing - Normal Map Baking]]

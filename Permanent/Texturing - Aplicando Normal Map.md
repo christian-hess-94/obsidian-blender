@@ -12,4 +12,4 @@ tags: #texturing
 
 ---
 ## Referências
-1. [[Normal Map - Baking]]
+1. [[Texturing - Normal Map Baking]]
