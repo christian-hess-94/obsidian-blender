@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "algori",
+                "query": "FBX",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,14 +90,14 @@
   "active": "30dbd6ad976a184d",
   "lastOpenFiles": [
     "Literature/Material.md",
+    "Eixos locais.md",
+    "Permanent/Modelling- Objeto que segue uma Curve.md",
+    "Permanent/Exportação para Unity.md",
+    "Literature/Modify Modifiers/Mesh Sequence Modifier.md",
     "Edit Mode.md",
     "Literature/Materiais Procedurais.md",
     "Literature/Texturing/UV Unwrapping.md",
     "Literature/Vetores Normais.md",
-    "Attachments/Triangulate - After.png",
-    "Attachments/Triangulate - Before.png",
-    "Attachments/UV Unwrapping Algorithms.png",
-    "Literature/Esculpir.md",
-    "Literature/Extrusão.md"
+    "Attachments/Triangulate - After.png"
   ]
 }

@@ -1,7 +1,7 @@
-# Utilizando Curve Modifier
+# Objeto que segue uma curve
 Criado: 13/11/2021 - 19:12
 
-tags: #animation
+tags: #modelling
 
 ---
 

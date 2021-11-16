@@ -5,7 +5,7 @@ tags: #modify_modifiers #wip
 
 ---
 
-Faz a mesma coisa que o Mesh Cache mas usando Arquivos [[.alembic]]
+Faz a mesma coisa que o Mesh Cache mas usando Arquivos [[Alembic]]
 
 ---
 ## Referências

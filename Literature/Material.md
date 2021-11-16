@@ -10,10 +10,9 @@ Os materiais são aplicados nas faces de uma mesh e lhe dão caracteristicas de 
 Não confundir com texturas, materiais são um conjunto de propriedades que 
 
 Podem ser de vários tipos
-  - Imagem:
-  - Vídeo:
-  -  ou [[Materiais Procedurais]]
-Materiais do tipo Imagem pegam informações de cor e textura de um arquivo externo 
+  - Imagem:  Pegam informações de cor e textura de um arquivo externo 
+  - Vídeo: Igual a tipo Imag
+  - [[Materiais Procedurais]]
   - jpg, png, por exemplo
 Materiais do tipo vídeo mostram um vídeo na superfície onde são aplicados
 
