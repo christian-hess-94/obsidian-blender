@@ -20,10 +20,9 @@
         "id": "6f0019783c794878",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Literature/Texturas.md",
-            "mode": "source"
+            "file": "Attachments/Metalness Map.png"
           }
         }
       }
@@ -102,14 +101,14 @@
   "active": "30dbd6ad976a184d",
   "lastOpenFiles": [
     "Literature/Texturas.md",
+    "Attachments/Metalness Map.png",
+    "Attachments/Normal Map.png",
+    "Attachments/Color Map.png",
+    "Attachments/Specular Map.png",
+    "Attachments/Roughness Map.png",
     "Attachments/Roughness Map.png",
     "Permanent/Texturing - Normal Map Baking.md",
     "Literature/Remove Doubles (Merge By Distance).md",
-    "Attachments/Remove Doubles Demo.png",
-    "Attachments/Merge By Distance.png",
-    "Normal Map.md",
-    "Tipos de textura.md",
-    "Permanent/Animation - Local Billboard Effect.md",
-    "Blender - MOC.md"
+    "Attachments/Remove Doubles Demo.png"
   ]
 }
