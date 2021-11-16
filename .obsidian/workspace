@@ -7,11 +7,8 @@
         "id": "30dbd6ad976a184d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Literature/Modify Modifiers/UV Warp Modifier.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Modify Modifiers/UV Warp Modifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +84,15 @@
   },
   "active": "30dbd6ad976a184d",
   "lastOpenFiles": [
-    "Literature/Modify Modifiers/UV Warp Modifier.md",
-    "Literature/Modify Modifiers/UV Project Modifier.md",
-    "Permanent/Animation - GreenScreen Project.md",
-    "Permanent/Animation - Local Billboard Effect.md",
-    "Attachments/UV Project Modifier - Demo.mp4",
-    "Attachments/UV Warp Interface.png",
-    "Literature/Materiais Procedurais.md",
-    "Literature/Material.md",
-    "Eixos locais.md",
-    "Permanent/Modelling- Objeto que segue uma Curve.md"
+    "Literature/Texturas.md",
+    "Literature/Remove Doubles.md",
+    "Literature/Eixos locais.md",
+    "Literature/Esculpir.md",
+    "Permanent/Modelling - Arvores low poly.md",
+    "Literature/Alembic.md",
+    "Literature/Edit Mode.md",
+    "Blender - MOC.md",
+    "Literature/Modify Modifiers/Vertex Weight Proximity Modifier.md",
+    "Literature/Modify Modifiers/Mesh Cache Modifier.md"
   ]
 }

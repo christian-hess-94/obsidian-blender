@@ -9,7 +9,6 @@ Blender é um software usado para
 - [[Modelagem]]
 - [[Animação]]
 - [[Edição de vídeo]]
-- [[Escultura]]
 - [[Criação de Texturas]] 
 em um ambiente 3D virtual.
 
