@@ -14,6 +14,6 @@ Essencialmente, o objeto consegue modificar a posição, rotação e escala do U
 
 ---
 ## Referências
-1. [[Animation - Letreiro]]
+1. [[Animation - Billboard effect]]
 2. https://www.youtube.com/watch?v=2KsgP3RUWQQ
 3. https://www.youtube.com/watch?v=dr7Flg9Vm3E

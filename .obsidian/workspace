@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Modify Modifiers/UV Project Modifier.md",
+                "file": "Permanent/Animation - Billboard effect.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Modify Modifiers/UV Project Modifier.md",
+                "file": "Permanent/Animation - Billboard effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Modify Modifiers/UV Project Modifier.md",
+                "file": "Permanent/Animation - Billboard effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "30dbd6ad976a184d",
   "lastOpenFiles": [
+    "Permanent/Animation - Billboard effect.md",
     "Literature/Modify Modifiers/UV Project Modifier.md",
     "Attachments/UV Project Modifier - Demo.mp4",
     "Literature/Modify Modifiers/UV Warp Modifier.md",
@@ -122,7 +123,6 @@
     "Literature/Material.md",
     "Eixos locais.md",
     "Permanent/Modelling- Objeto que segue uma Curve.md",
-    "Permanent/Exportação para Unity.md",
-    "Literature/Modify Modifiers/Mesh Sequence Modifier.md"
+    "Permanent/Exportação para Unity.md"
   ]
 }
