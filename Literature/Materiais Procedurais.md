@@ -5,7 +5,7 @@ tags: #material
 
 ---
 
-Materiais procedurais são formas de representar as texturas e características de um objeto, sem que seja necessário o uso de imagens fixas, e sim através da manipulação de propriedades físicas que são simuladas pelo programa.
+Materiais procedurais são formas de representar as cores e características de um objeto, sem que seja necessário o uso de imagens fixas, e sim através da manipulação de propriedades físicas que são simuladas pelo programa.
 
 Essas propriedades variam desde a cor, o quão fosco ou brilhoso é o material e a forma como o mesmo reage com a luz [[Normal Map]], dentre outros.
 

@@ -16,7 +16,7 @@ Essas alterações são chamadas de [[Modelagem não destrutiva]].
 - [[Normal Edit Modifier]] 
 - [[Weighted Normal Modifier]] 
 - [[UV Project Modifier]] 
-- [[UV Wrap Modifier]] 
+- [[UV Warp Modifier]] 
 - [[Vertex Weight Edit Modifier]] 
 - [[Vertex Weight Mix Modifier]] 
 - [[Vertex Weight Proximity Modifier]]

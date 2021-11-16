@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/Material.md",
+            "file": "Literature/Modify Modifiers/UV Warp Modifier.md",
             "mode": "source"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Material.md",
+                "file": "Literature/Modify Modifiers/UV Warp Modifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "30dbd6ad976a184d",
   "lastOpenFiles": [
+    "Literature/Modify Modifiers/UV Warp Modifier.md",
+    "Attachments/UV Warp Interface.png",
+    "Literature/Materiais Procedurais.md",
     "Literature/Material.md",
     "Eixos locais.md",
     "Permanent/Modelling- Objeto que segue uma Curve.md",
     "Permanent/Exportação para Unity.md",
     "Literature/Modify Modifiers/Mesh Sequence Modifier.md",
     "Edit Mode.md",
-    "Literature/Materiais Procedurais.md",
-    "Literature/Texturing/UV Unwrapping.md",
-    "Literature/Vetores Normais.md",
-    "Attachments/Triangulate - After.png"
+    "Literature/Texturing/UV Unwrapping.md"
   ]
 }
