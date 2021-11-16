@@ -7,8 +7,11 @@
         "id": "6f0019783c794878",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Fleeting/How to take smart notes.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fleeting/How to take smart notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +88,8 @@
   },
   "active": "6f0019783c794878",
   "lastOpenFiles": [
+    "Fleeting/How to take smart notes.md",
+    "Templates/Note Template.md",
     "Literature/Modifiers - MOC.md",
     "Literature/Texturing/UV Map.md",
     "Literature/Deform Modifiers/Deform Modifiers - MOC.md",
@@ -91,8 +97,6 @@
     "Literature/Modify Modifiers/Normal Edit Modifier.md",
     "Literature/Modify Modifiers/UV Project Modifier.md",
     "Literature/Remove Doubles (Merge By Distance).md",
-    "Literature/Generate Modifiers/Triangulate Modifier.md",
-    "Literature/Modelagem.md",
-    "Literature/Edit Mode.md"
+    "Literature/Generate Modifiers/Triangulate Modifier.md"
   ]
 }
