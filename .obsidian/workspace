@@ -84,15 +84,15 @@
   },
   "active": "6f0019783c794878",
   "lastOpenFiles": [
+    "Literature/Deform Modifiers/Deform Modifiers - MOC.md",
+    "Literature/Modify Modifiers/Normal Edit Modifier.md",
+    "Literature/Modify Modifiers/UV Project Modifier.md",
+    "Literature/Remove Doubles (Merge By Distance).md",
     "Literature/Generate Modifiers/Triangulate Modifier.md",
     "Literature/Modelagem.md",
     "Literature/Edit Mode.md",
     "Literature/Generate Modifiers/Mirror Modifier.md",
-    "Literature/Remove Doubles (Merge By Distance).md",
     "Literature/Generate Modifiers/Decimate Modifier.md",
-    "Literature/Generate Modifiers/Weld Modifier.md",
-    "Permanent/Texturing - Aplicando Normal Map.md",
-    "Literature/Modify Modifiers/Modify Modifiers - MOC.md",
-    "Literature/Modelagem não destrutiva.md"
+    "Literature/Generate Modifiers/Weld Modifier.md"
   ]
 }

@@ -17,7 +17,6 @@ Controle a distancia que deseja que os vértices se juntem. Cuidado ao alterar e
 
 Esquerda: original | Meio: 0.0601m | Direita: 0.14m
 
-Esse processo pode ser feito de maneira não destrutiva através do [[Weld Modifier]].
 
 ---
 ## Referências
