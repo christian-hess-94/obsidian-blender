@@ -22,6 +22,13 @@
       }
     },
     {
+      "query": "file:MOC",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
       "query": "path:Permanent",
       "color": {
         "a": 1,
@@ -48,18 +55,11 @@
         "a": 1,
         "rgb": 5431473
       }
-    },
-    {
-      "query": "file:MOC",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -3,
+  "textFadeMultiplier": -1.1,
   "nodeSizeMultiplier": 2.89588235294118,
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
@@ -67,6 +67,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.06699744995282735,
+  "scale": 0.2588386562181761,
   "close": false
 }
