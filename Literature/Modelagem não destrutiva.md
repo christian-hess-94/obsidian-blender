@@ -1,6 +1,6 @@
 # Modelagem não destrutiva
 Criado: 15/11/2021 - 14:43
-
+links: [[Modelagem]] - [[Modifiers - MOC]]
 tags: #modelling 
 
 ---

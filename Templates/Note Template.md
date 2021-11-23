@@ -2,10 +2,12 @@
 Criado: {{date}} - {{time}}
 
 links:
-tags: #wip 
+tags: #no_content 
 
 ---
 
 CONTENT
 
 ---
+## Referências
+1.

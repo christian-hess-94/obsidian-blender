@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/Eixos locais.md",
+            "file": "Literature/Texturing/Tipos de textura.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Eixos locais.md",
+                "file": "Literature/Texturing/Tipos de textura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "6f0019783c794878",
   "lastOpenFiles": [
-    "Literature/Eixos locais.md",
-    "Literature/Esculpir.md",
-    "Literature/Extrusão.md",
-    "Literature/FBX.md",
-    "Literature/Edit Mode.md",
-    "Literature/Animação.md",
-    "Literature/Alembic.md",
-    "Ambient Occlusion.md",
-    "Templates/Note Template.md",
-    "Normal Map.md"
+    "Literature/Texturing/Tipos de textura.md",
+    "Literature/Texturing/Ambient Occlusion Map.md",
+    "Literature/Texturas.md",
+    "Literature/Shape Keys.md",
+    "Literature/Seams.md",
+    "Literature/Remove Doubles (Merge By Distance).md",
+    "Literature/Modifiers - MOC.md",
+    "Literature/Modelagem não destrutiva.md",
+    "Literature/Modelagem.md",
+    "Literature/Material.md"
   ]
 }
