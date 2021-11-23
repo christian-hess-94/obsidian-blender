@@ -8,6 +8,7 @@ tags:
 - Writing is the process of thinking
 - Writing happens during the process of thinking, not after
 - Write and try to distill a passage in your own words
+- There's too much for the human mind to remember and access at the same time
 
 ---
 ## Referências
