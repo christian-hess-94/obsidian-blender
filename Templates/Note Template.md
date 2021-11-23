@@ -1,12 +1,11 @@
 # {{title}}
 Criado: {{date}} - {{time}}
 
-tags: #no_tag 
+links:
+tags: #wip 
 
 ---
 
 CONTENT
 
 ---
-## Referências
-1. 

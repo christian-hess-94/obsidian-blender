@@ -1,12 +1,11 @@
 # Ambient Occlusion
-Criado: 16/11/2021 - 20:29
+Criado: 23/11/2021 - 20:42
 
-tags: #no_tag 
+links:
+tags: #wip 
 
 ---
 
 CONTENT
 
 ---
-## Referências
-1.

@@ -1,14 +1,11 @@
 # Normal Map
-Criado: 16/11/2021 - 19:05
+Criado: 23/11/2021 - 20:41
 
-tags: #texturing #wip 
+links: [[Texturas]] - [[Tipos de textura]]
+tags: #wip
 
 ---
 
 CONTENT
 
 ---
-## Referências
-1. [[Texturas]]
-2. [[Texture Baking]]
-3. [[Texturing - Normal Map Baking]]

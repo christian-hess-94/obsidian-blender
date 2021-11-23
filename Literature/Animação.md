@@ -1,13 +1,11 @@
 # Animação
-Criado: 16/11/2021 - 19:03
+Criado: 23/11/2021 - 20:43
 
-tags: #no_tag #animation
-
----
-
-- [[Alembic]]
-- [[Armature Modifier]]
+links:
+tags: #wip 
 
 ---
-## Referências
-1.
+
+CONTENT
+
+---

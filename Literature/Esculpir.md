@@ -1,12 +1,10 @@
 # Esculpir
 Criado: 12/11/2021 - 21:01
-
-tags: #modelling
+links: [[Modelagem]]
+tags: #no_content
 
 ---
 
 CONTENT
 
 ---
-## Referências
-1.

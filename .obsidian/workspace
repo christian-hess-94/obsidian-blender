@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting/How to take smart notes.md",
+            "file": "Literature/Eixos locais.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/How to take smart notes.md",
+                "file": "Literature/Eixos locais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "6f0019783c794878",
   "lastOpenFiles": [
-    "Fleeting/How to take smart notes.md",
+    "Literature/Eixos locais.md",
+    "Literature/Esculpir.md",
+    "Literature/Extrusão.md",
+    "Literature/FBX.md",
+    "Literature/Edit Mode.md",
+    "Literature/Animação.md",
+    "Literature/Alembic.md",
+    "Ambient Occlusion.md",
     "Templates/Note Template.md",
-    "Literature/Modifiers - MOC.md",
-    "Literature/Texturing/UV Map.md",
-    "Literature/Deform Modifiers/Deform Modifiers - MOC.md",
-    "Literature/Generate Modifiers/Generate Modifiers - MOC.md",
-    "Literature/Modify Modifiers/Normal Edit Modifier.md",
-    "Literature/Modify Modifiers/UV Project Modifier.md",
-    "Literature/Remove Doubles (Merge By Distance).md",
-    "Literature/Generate Modifiers/Triangulate Modifier.md"
+    "Normal Map.md"
   ]
 }

@@ -1,12 +1,11 @@
 # Alembic
-Criado: 16/11/2021 - 19:01
+Criado: 23/11/2021 - 20:43
 
-tags: #no_tag 
+links: [[Animação]] 
+tags: #wip 
 
 ---
 
 CONTENT
 
 ---
-## Referências
-1.

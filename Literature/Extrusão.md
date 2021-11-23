@@ -1,7 +1,7 @@
 # Extrusão
 Criado: 12/11/2021 - 21:02
-
-tags: #modelling
+links: [[Modelagem]]
+tags: #done
 
 ---
 
