@@ -1,6 +1,6 @@
 # Remove Doubles (Merge By Distance)
 Criado: 16/11/2021 - 19:02
-links: [[Edit Mode]] - 
+links: [[Edit Mode]] - [[Modelagem]]
 tags: #done 
 
 ---

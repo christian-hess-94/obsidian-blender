@@ -1,7 +1,7 @@
 # Materiais Procedurais
 Criado: 15/11/2021 - 16:11
-
-tags: #material  
+links: [[Material]]
+tags: #done  
 
 ---
 

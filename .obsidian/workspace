@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/Texturing/Tipos de textura.md",
+            "file": "Permanent/Efeito de Fade.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Texturing/Tipos de textura.md",
+                "file": "Permanent/Efeito de Fade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "6f0019783c794878",
   "lastOpenFiles": [
-    "Literature/Texturing/Tipos de textura.md",
-    "Literature/Texturing/Ambient Occlusion Map.md",
-    "Literature/Texturas.md",
-    "Literature/Shape Keys.md",
-    "Literature/Seams.md",
-    "Literature/Remove Doubles (Merge By Distance).md",
-    "Literature/Modifiers - MOC.md",
-    "Literature/Modelagem não destrutiva.md",
-    "Literature/Modelagem.md",
-    "Literature/Material.md"
+    "Permanent/Efeito de Fade.md",
+    "Permanent/Atalhos.md",
+    "Permanent/Animation - Usando hooks.md",
+    "Permanent/Animation - Local Billboard Effect.md",
+    "Permanent/Animation - GreenScreen Projection.md",
+    "Permanent/Addons.md",
+    "Literature/Modelling/FBX.md",
+    "Literature/Animation/Alembic.md",
+    "Literature/Animação.md",
+    "Literature/Modelling/Edit Mode.md"
   ]
 }

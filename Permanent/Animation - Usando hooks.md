@@ -1,7 +1,7 @@
 # Usando hooks
 Criado: 13/11/2021 - 19:21
-
-tags: #animation
+links: [[Animação]] - [[Hook Modifier]]
+tags: #done
 
 ---
 
@@ -12,4 +12,4 @@ Abaixo um pequeno tutorial de como associar hooks a vertices e arestas de uma ge
 
 ---
 ## Referências
-1. [[Hook Modifier]]
+1. 

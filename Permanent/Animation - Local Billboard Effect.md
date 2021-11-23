@@ -1,7 +1,7 @@
 # Animation - Local Billboard effect
 Criado: 16/11/2021 - 18:23
-
-tags: #animation 
+links: [[Animação]]
+tags: #done 
 
 ---
 

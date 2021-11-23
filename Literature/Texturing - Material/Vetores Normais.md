@@ -1,7 +1,7 @@
 # Vetores Normais
 Criado: 15/11/2021 - 16:01
-
-tags: #texturing 
+links: [[Texturas]] - [[Material]]
+tags: #done 
 
 ---
 

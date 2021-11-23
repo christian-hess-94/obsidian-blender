@@ -1,7 +1,7 @@
 # UV Map
 Criado: 15/11/2021 - 15:32
-
-tags: #texturing  
+links: [[Modelagem]] - [[Texturas]]
+tags: #done  
 
 ---
 
