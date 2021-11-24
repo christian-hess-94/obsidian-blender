@@ -1,7 +1,7 @@
 # Screw Modifier
 Criado: 15/11/2021 - 14:35
-
-tags: #generate_modifiers
+links: [[Generate Modifiers]]
+tags: #done
 
 ---
 
@@ -9,8 +9,6 @@ Permite criar cópias rotacionadas e incrementais de um objeto afim de criar alg
 
 O centro desse "parafuso" pode ser alterado no proprio modifier, permitindo que o objeto afetado possa dar voltas em outro objeto ou em um local específico do cena 3D.
 
-Casos de uso:
- - [[Modelling - Criar uma mola]]
 
 ---
 ## Referências

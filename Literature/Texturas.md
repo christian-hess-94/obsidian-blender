@@ -1,7 +1,7 @@
 # Texturas
 Criado: 16/11/2021 - 19:01
 links: [[Tipos de textura]]
-tags: #done 
+tags: #done #moc
 
 ---
 

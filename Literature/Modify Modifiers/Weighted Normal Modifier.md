@@ -1,7 +1,7 @@
 # Weighted Normal Modifier
 Criado: 14/11/2021 - 15:25
-
-tags: #modify_modifiers #wip
+links: [[Modify Modifiers]]
+tags: #wip #need_example 
 
 ---
 

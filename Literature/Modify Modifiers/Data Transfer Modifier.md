@@ -1,7 +1,7 @@
 # Data Transfer Modifier
 Criado: 14/11/2021 - 15:21
-
-tags: #modify_modifiers #wip
+links: [[Modify Modifiers]]
+tags: #wip #need_example 
 
 ---
 

@@ -10,7 +10,7 @@ A forma como são adicionados ao objeto influenciam a forma como são aplicados 
 
 O uso de Modifier é aliado ao conceito chamado [[Modelagem não destrutiva]]
 Existem três tipos de Modifiers:
-## [[Modify Modifiers - MOC]]
+## [[Modify Modifiers]]
 
 ## [[Generate Modifiers]]
 

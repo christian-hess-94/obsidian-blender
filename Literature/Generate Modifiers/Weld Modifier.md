@@ -1,7 +1,7 @@
 # Weld Modifier
 Criado: 15/11/2021 - 14:37
-
-tags: #generate_modifiers 
+links: [[Generate Modifiers]]
+tags: #done
 
 ---
 

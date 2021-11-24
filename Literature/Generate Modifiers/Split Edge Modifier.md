@@ -1,7 +1,7 @@
 # Split Edge Modifier
 Criado: 15/11/2021 - 14:34
-
-tags: #generate_modifiers 
+links: [[Generate Modifiers]]
+tags: #need_example
 
 ---
 

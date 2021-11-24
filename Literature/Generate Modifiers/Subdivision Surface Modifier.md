@@ -1,7 +1,7 @@
 # Subdivision Surface Modifier
 Criado: 15/11/2021 - 14:36
-
-tags: #generate_modifiers 
+links: [[Generate Modifiers]]
+tags: #need_example
 
 ---
 

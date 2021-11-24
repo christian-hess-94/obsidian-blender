@@ -8,4 +8,5 @@ tags: #need_example
 Serve para realizar uma operação de simplificação na mesh, diminuindo a quantia de vértices que a compõem.
 
 ---
-## Referê
+## Referências
+1.

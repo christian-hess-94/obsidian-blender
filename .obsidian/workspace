@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/Generate Modifiers/Decimate Modifier.md",
+            "file": "Literature/Texturing - Material/Ambient Occlusion.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Generate Modifiers/Decimate Modifier.md",
+                "file": "Literature/Texturing - Material/Ambient Occlusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "6f0019783c794878",
   "lastOpenFiles": [
-    "Literature/Generate Modifiers/Decimate Modifier.md",
-    "Literature/Generate Modifiers/Build Modifier.md",
-    "Literature/Generate Modifiers/Boolean Modifier.md",
-    "Literature/Generate Modifiers/Bevel Modifier.md",
-    "Literature/Generate Modifiers/Array Modifier.md",
-    "Literature/Generate Modifiers/Generate Modifiers.md",
-    "Literature/Deform Modifiers/ShrinkWrap Modifier.md",
-    "Literature/Deform Modifiers/Mesh Deform Modifier.md",
-    "Literature/Deform Modifiers/Lattice Modifier.md",
-    "Literature/Deform Modifiers/Laplacian Deform Modifier.md"
+    "Literature/Texturing - Material/Ambient Occlusion.md",
+    "Literature/Texturing - Material/Ambient Occlusion Map.md",
+    "Literature/Texturing - Material/Normal Map.md",
+    "Literature/Texturing - Material/Materiais Procedurais.md",
+    "Literature/Modify Modifiers/Weighted Normal Modifier.md",
+    "Literature/Modify Modifiers/Vertex Weight Proximity Modifier.md",
+    "Literature/Modify Modifiers/Vertex Weight Mix Modifier.md",
+    "Literature/Modify Modifiers/Vertex Weight Edit Modifier.md",
+    "Literature/Modify Modifiers/UV Warp Modifier.md",
+    "Literature/Modify Modifiers/UV Project Modifier.md"
   ]
 }
