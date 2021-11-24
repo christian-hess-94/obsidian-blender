@@ -12,9 +12,9 @@ O uso de Modifier é aliado ao conceito chamado [[Modelagem não destrutiva]]
 Existem três tipos de Modifiers:
 ## [[Modify Modifiers - MOC]]
 
-## [[Generate Modifiers - MOC]]
+## [[Generate Modifiers]]
 
-## [[Deform Modifiers - MOC]]
+## [[Deform Modifiers]]
 
 ---
 ## Referências

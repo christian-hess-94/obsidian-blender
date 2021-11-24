@@ -1,7 +1,7 @@
 # Hook Modifier
 Criado: 13/11/2021 - 19:19
-
-tags:  #deform_modifiers #animation
+links: [[Deform Modifiers]]
+tags: #done
 
 ---
 
@@ -13,4 +13,4 @@ tags:  #deform_modifiers #animation
   
 ---
 ## Referências
-1. [[Animation - Usando hooks]]
+1. 

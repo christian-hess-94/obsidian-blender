@@ -1,7 +1,7 @@
 # Array Modifier
 Criado: 15/11/2021 - 14:31
-
-tags: #generate_modifiers 
+links: [[Generate Modifiers]]
+tags: #done 
 
 ---
 

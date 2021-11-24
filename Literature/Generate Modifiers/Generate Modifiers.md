@@ -1,7 +1,7 @@
-# Generate Modifiers - MOC
+# Generate Modifiers
 Criado: 14/11/2021 - 15:18
-
-tags: 
+links:
+tags: #moc
 
 ---
 

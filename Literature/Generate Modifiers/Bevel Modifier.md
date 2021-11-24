@@ -1,7 +1,7 @@
 # Bevel Modifier
 Criado: 15/11/2021 - 14:32
-
-tags: #generate_modifiers  
+links: [[Generate Modifiers]]
+tags: #done 
 
 ---
 

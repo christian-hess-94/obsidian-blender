@@ -1,7 +1,7 @@
-# Deform Modifiers - MOC
+# Deform Modifiers
 Criado: 14/11/2021 - 15:17
-
-tags: #deform_modifiers 
+links: [[Deform Modifiers]]
+tags: #moc 
 
 ---
 
