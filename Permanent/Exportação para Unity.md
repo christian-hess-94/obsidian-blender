@@ -1,7 +1,7 @@
 # Exportação para Unity
 Criado: 15/11/2021 - 14:41
-
-tags: #gamedev 
+links: [[FBX]] - [[Modelagem]] - [[Exportação]]
+tags: #done 
 
 ---
 

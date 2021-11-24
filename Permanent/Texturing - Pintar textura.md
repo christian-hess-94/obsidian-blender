@@ -1,6 +1,6 @@
 # Texturing - Pintar textura
 Criado: 15/11/2021 - 15:05
-
+links: [[Texturas]] - [[Texture Paint]]
 tags: #texturing 
 
 ---
@@ -19,4 +19,4 @@ tags: #texturing
 
 ---
 ## Referências
-1. [[Texture Paint]]
+1. 

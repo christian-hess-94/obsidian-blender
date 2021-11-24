@@ -1,7 +1,7 @@
 # Normal Map - Baking
 Criado: 15/11/2021 - 15:10
-
-tags: #texturing #baking
+links: [[Normal Map]] - [[Texture Baking]] - [[Texturas]]
+tags: #done
 
 ---
 
@@ -43,4 +43,4 @@ tags: #texturing #baking
 
 ---
 ## Referências
-1. [[Normal Map]]
+1.

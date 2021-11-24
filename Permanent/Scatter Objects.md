@@ -1,7 +1,7 @@
 # Addon - Scatter Objects
 Criado: 15/11/2021 - 15:29
-
-tags: #addons #scene_composition  
+linksk: [[Addons]]
+tags: #done 
 
 ---
 Este addon facilita o espalhar (scatter) de objetos pela cena a fim de adicionar complexidade

@@ -1,7 +1,7 @@
 # Objeto que segue uma curve
 Criado: 13/11/2021 - 19:12
-
-tags: #modelling
+links: [[Animação]]
+tags: #done
 
 ---
 

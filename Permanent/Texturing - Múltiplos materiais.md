@@ -1,12 +1,12 @@
 # Texturing - Múltiplos materiais
 Criado: 15/11/2021 - 15:06
-
-tags: #material #texturing 
+links: [[Texturas]] - [[Material]] - [[Modelagem]]
+tags: #done
 
 ---
 
 - Crie todos os materiais na aba de materiais usando o + ou o botão de duplicar
-- Abra o objeto em modo de edição
+- Abra o objeto em [[Edit Mode]]
 - Seleciona as faces que vão usar determinado material
 - Com as faces selecionadas, selecione o material a ser aplicado
 - Clicar no botão "ASSIGN" logo abaixo
@@ -16,4 +16,4 @@ tags: #material #texturing
 
 ---
 ## Referências
-1. [[Material]]
+1. 

@@ -1,7 +1,7 @@
 # Texturing - Aplicando Normal Map
 Criado: 15/11/2021 - 15:27
-
-tags: #texturing 
+links: [[Texturas]] - [[Material]]
+tags: #done 
 
 ---
 
@@ -12,4 +12,4 @@ tags: #texturing
 
 ---
 ## Referências
-1. [[Normal Map]]
+1. 

@@ -7,11 +7,8 @@
         "id": "6f0019783c794878",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Permanent/Efeito de Fade.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "FBX",
+                "query": "Fade",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent/Efeito de Fade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +84,15 @@
   },
   "active": "6f0019783c794878",
   "lastOpenFiles": [
-    "Permanent/Efeito de Fade.md",
-    "Permanent/Atalhos.md",
-    "Permanent/Animation - Usando hooks.md",
-    "Permanent/Animation - Local Billboard Effect.md",
-    "Permanent/Animation - GreenScreen Projection.md",
+    "Permanent/Texturing - Pintar textura.md",
+    "Permanent/Texturing - Normal Map Baking.md",
+    "Permanent/Texturing - Múltiplos materiais.md",
+    "Permanent/Modelling - Arvores low poly.md",
+    "Permanent/Modelling - Criar uma mola.md",
+    "Permanent/Modelling- Objeto que segue uma Curve.md",
+    "Permanent/Scatter Objects.md",
+    "Permanent/Texturing - Aplicando Normal Map.md",
     "Permanent/Addons.md",
-    "Literature/Modelling/FBX.md",
-    "Literature/Animation/Alembic.md",
-    "Literature/Animação.md",
-    "Literature/Modelling/Edit Mode.md"
+    "Permanent/Exportação para Unity.md"
   ]
 }
